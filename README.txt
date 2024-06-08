@@ -1,4 +1,4 @@
-Awesome Combined Game Collection
+AWESOME COMBINED GAME COLLECTION
 !Game Collection
 
 Welcome to our Awesome Combined Game Collection! In this project, we’ve merged three exciting games into one codebase: a horse game, a snake game, and tic-tac-toe. Whether you’re a developer or a player, we hope you’ll find this collection both creative and adventurous.
