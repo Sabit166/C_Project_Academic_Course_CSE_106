@@ -27,7 +27,7 @@ Clone this repository:
 git clonehttps://github.com/Sabit166/C-Project-Academic-Course-
 
 Navigate to the project directory:
-cd C-Project-Academic-Course
+cd C-Project-Academic-Course-
 
 Usage
 Play each game using the keyboard controls specified in the game’s interface.
