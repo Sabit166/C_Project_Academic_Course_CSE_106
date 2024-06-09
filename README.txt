@@ -24,10 +24,10 @@ INSTALLATION:
 To get started, follow these steps:
 
 Clone this repository:
-git clonehttps://github.com/Sabit166/C-Project-Academic-Course-
+git clonehttps://github.com/Sabit166/C_Project_Academic_Course_CSE_106
 
 Navigate to the project directory:
-cd C-Project-Academic-Course
+cd C_Project_Academic_Course_CSE_106
 
 Usage
 Play each game using the keyboard controls specified in the game’s interface.
