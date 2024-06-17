@@ -16,7 +16,7 @@
  *  Role: Developer                                                           *
  *  Contact: tamimulislam@gmail.com                                           *
  *                                                                            *
- *  Alif Hossain                                                              *
+ *  Alif Ul Haque                                                              *
  *  --------------------------------------------------------------------------*
  *  Role: Developer                                                           *
  *  Contact: alifhaque19@gmail.com                                            *
