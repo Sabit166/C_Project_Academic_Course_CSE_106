@@ -9,17 +9,17 @@
  *  Sabit Siraji                                                              *
  *  --------------------------------------------------------------------------*
  *  Role: Primary Developer                                                   *                                                     *
- *  Contact: sabit@gmail.com                                                *
+ *  Contact: sabitsiraji@gmail.com                                            *
  *                                                                            *
  *  Tamimul Islam                                                             *
  *  --------------------------------------------------------------------------*
  *  Role: Developer                                                           *
- *  Contact: tamimulislam@gmail.com                                              *
+ *  Contact: tamimulislam@gmail.com                                           *
  *                                                                            *
  *  Alif Hossain                                                              *
  *  --------------------------------------------------------------------------*
  *  Role: Developer                                                           *
- *  Contact: alifhaque19@gmail.com                                                 *
+ *  Contact: alifhaque19@gmail.com                                            *
  *                                                                            *
  * ----------------------------------------------------------------------------
  *  Description:                                                              *
