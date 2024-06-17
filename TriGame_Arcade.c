@@ -23,9 +23,9 @@
  *                                                                            *
  * ----------------------------------------------------------------------------
  *  Description:                                                              *
- *  This project is designed to manage inventory in a warehouse. It includes  *
- *  features for adding, removing, and updating inventory items, as well as   *
- *  generating reports on inventory status.                                   *
+ *  This project is designed to dive into the adventure of three              *
+ *  mini games built by three enthasuast developers.                          *
+ *                                                                            *
  *                                                                            *
  *  Date Created: December 15, 2023                                           *
  *  Last Modified: June 17, 2024                                              *
@@ -145,7 +145,7 @@ int main()
 {
     system("cls");
     setTextColor(2);
-    printf("\t\t\t\tWELCOME TO MIST ARCADE, the world of MINI GAMES!!\n\n");
+    printf("\t\t\t\tWELCOME TO TriGame ARCADE, the world of MINI GAMES!!\n\n");
     setTextColor(7);
     printf("Here you are getting the chance to explore a number of tiny adventures.\n\n");
     printf("Without delay, let us peek through any of the three adventures.\n\n");
