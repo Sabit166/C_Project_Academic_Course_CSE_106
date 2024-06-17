@@ -1,3 +1,37 @@
+/******************************************************************************
+ *                                                                            *
+ *                               PROJECT: TriGame Arcade                      *
+ *                                                                            *
+ ******************************************************************************
+ *                                                                            *
+ *  Authors:                                                                  *
+ *                                                                            *
+ *  Sabit Siraji                                                              *
+ *  --------------------------------------------------------------------------*
+ *  Role: Primary Developer                                                   *                                                     *
+ *  Contact: sabit@example.com                                                *
+ *                                                                            *
+ *  Tamimul Islam                                                             *
+ *  --------------------------------------------------------------------------*
+ *  Role: Developer                                                           *
+ *  Contact: tamimul@example.com                                              *
+ *                                                                            *
+ *  Alif Hossain                                                              *
+ *  --------------------------------------------------------------------------*
+ *  Role: Developer                                                           *
+ *  Contact: alif@example.com                                                 *
+ *                                                                            *
+ * ----------------------------------------------------------------------------
+ *  Description:                                                              *
+ *  This project is designed to manage inventory in a warehouse. It includes  *
+ *  features for adding, removing, and updating inventory items, as well as   *
+ *  generating reports on inventory status.                                   *
+ *                                                                            *
+ *  Date Created: December 15, 2023                                           *
+ *  Last Modified: June 17, 2024                                              *
+ *                                                                            *
+ ******************************************************************************
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include<ctype.h>
