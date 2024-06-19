@@ -6,17 +6,17 @@
  *                                                                            *
  *  Authors:                                                                  *
  *                                                                            *
- *  Sabit Siraji                                                              *
+ *  Sabit Siraji, MIST CSE 23                                                 *
  *  --------------------------------------------------------------------------*
- *  Role: Primary Developer                                                   *                                                     *
+ *  Role: Developer                                                           *                                                     
  *  Contact: sabitsiraji@gmail.com                                            *
  *                                                                            *
- *  Tamimul Islam                                                             *
+ *  Tamimul Islam, MIST CSE 23                                                *
  *  --------------------------------------------------------------------------*
  *  Role: Developer                                                           *
  *  Contact: tamimulislam@gmail.com                                           *
  *                                                                            *
- *  Alif Ul Haque                                                             *
+ *  Alif Ul Haque, MIST CSE 23                                                *
  *  --------------------------------------------------------------------------*
  *  Role: Developer                                                           *
  *  Contact: alifhaque19@gmail.com                                            *
